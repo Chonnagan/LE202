@@ -9,8 +9,8 @@
 Link: https://www.st.com/en/microcontrollers-microprocessors/stm32f407vg.html
 
 Up to 140 I/O ports with interrupt capability
-    - Up to 136 fast I/Os up to 84 MHz
-    - Up to 138 5 V-tolerant I/Os
+        - Up to 136 fast I/Os up to 84 MHz
+        - Up to 138 5 V-tolerant I/Os
 
 ## 2) DEV-16791
 
