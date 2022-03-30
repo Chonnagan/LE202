@@ -14,4 +14,6 @@
 ![1425](https://user-images.githubusercontent.com/98946284/160733318-295ba399-539b-4704-9c3b-5d908d931b7d.jpg)
 
 ### ส่วนที่ 1 Memory
+![1426](https://user-images.githubusercontent.com/98946284/160733554-3cf6a060-71e7-4691-af7c-243e02f70c91.jpg)
+
 
