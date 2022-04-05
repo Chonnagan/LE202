@@ -71,6 +71,9 @@
 
 [![2425](https://user-images.githubusercontent.com/98946284/161777342-64138e00-f6b6-4b12-8de2-6635dcbe3b00.jpg)](https://godbolt.org/)
 
+โดยฝั่งซ้ายจะเป็นภาษาระดับสูง(high-level language) ส่วนด้านขวาจะเป็นภาษาระดับต่ำ(low-level language) 
+
+
 
 
 
