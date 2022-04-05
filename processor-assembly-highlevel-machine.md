@@ -69,7 +69,7 @@
 
 สามารถใช้ภาษาแบบ High level เพื่อสื่อสารกับคอมพิวเตอร์ที่เป็น Low level ได้ผ่านเว็บไซต์ (คลิ๊กLink ได้ผ่านรูปภาพข้างล่าง) 
 
-![site-logo 3f5bcf90b56ade7be40ffa8cca8b2056 (1)](https://godbolt.org/)
+[![2425](https://user-images.githubusercontent.com/98946284/161777342-64138e00-f6b6-4b12-8de2-6635dcbe3b00.jpg)](https://godbolt.org/)
 
 
 
